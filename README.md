@@ -2,7 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentaroooo
-)](https://github.com/anuraghazra/github-readme-stats)
+)&layout=compact&theme](https://github.com/anuraghazra/github-readme-stats)
 
 
 
